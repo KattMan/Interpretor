@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NumToText.Context" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAIAAAAEBAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Context.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NumToText.NumToText" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NumToText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NumToText.OnesExpression" Collapsed="true">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAEAIAAAQAFBAAAAAgAAAgAAIA=</HashCode>
+      <FileName>OnesExpression .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NumToText.Expression" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAkAAEAIAAAQAFBAAAAAgAAAgAAIA=</HashCode>
+      <FileName>AbstractExpression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NumToText.TensExpression" Collapsed="true">
+    <Position X="3.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAEAIAAAQAFBAAAAAgAAAgAAIA=</HashCode>
+      <FileName>TensExpression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NumToText.HundredsExpression" Collapsed="true">
+    <Position X="4.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAEAIAAAQAFBAAAAAgAAAgAAIA=</HashCode>
+      <FileName>HundredsExpression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

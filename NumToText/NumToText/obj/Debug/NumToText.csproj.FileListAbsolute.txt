@@ -1,0 +1,27 @@
+C:\Users\pmagill\Local projects\SWIMSS\NumToText\NumToText\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pmagill\Local projects\SWIMSS\NumToText\NumToText\obj\Debug\NumToText.Form1.resources
+C:\Users\pmagill\Local projects\SWIMSS\NumToText\NumToText\obj\Debug\NumToText.Properties.Resources.resources
+C:\Users\pmagill\Local projects\SWIMSS\NumToText\NumToText\obj\Debug\NumToText.csproj.GenerateResource.Cache
+C:\Users\pmagill\Local projects\SWIMSS\NumToText\NumToText\bin\Debug\NumToText.exe
+C:\Users\pmagill\Local projects\SWIMSS\NumToText\NumToText\bin\Debug\NumToText.pdb
+C:\Users\pmagill\Local projects\SWIMSS\NumToText\NumToText\obj\Debug\NumToText.exe
+C:\Users\pmagill\Local projects\SWIMSS\NumToText\NumToText\obj\Debug\NumToText.pdb
+F:\Development\Projects\Interpretor\NumToText\NumToText\obj\Debug\NumToText.exe
+F:\Development\Projects\Interpretor\NumToText\NumToText\obj\Debug\NumToText.pdb
+F:\Development\Projects\Interpretor\NumToText\NumToText\bin\Debug\NumToText.exe
+F:\Development\Projects\Interpretor\NumToText\NumToText\bin\Debug\NumToText.pdb
+F:\Development\Projects\Interpretor\NumToText\NumToText\obj\Debug\ResolveAssemblyReference.cache
+F:\Development\Projects\Interpretor\NumToText\NumToText\obj\Debug\NumToText.Form1.resources
+F:\Development\Projects\Interpretor\NumToText\NumToText\obj\Debug\NumToText.Properties.Resources.resources
+F:\Development\Projects\Interpretor\NumToText\NumToText\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Development\Projects\Interpretor\NumToText\NumToText\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Development\Projects\Interpretor\NumToText\NumToText\obj\Debug\NumToText.exe
+D:\Development\Projects\Interpretor\NumToText\NumToText\obj\Debug\NumToText.pdb
+D:\Development\Projects\Interpretor\NumToText\NumToText\bin\Debug\NumToText.exe
+D:\Development\Projects\Interpretor\NumToText\NumToText\bin\Debug\NumToText.pdb
+D:\Development\Projects\Interpretor\NumToText\NumToText\obj\Debug\NumToText.Form1.resources
+D:\Development\Projects\Interpretor\NumToText\NumToText\obj\Debug\NumToText.Properties.Resources.resources
+D:\Development\Projects\Interpretor\NumToText\NumToText\obj\Debug\NumToText.csprojResolveAssemblyReference.cache
+D:\Development\Projects\Interpretor\NumToText\NumToText\obj\Debug\NumToText.csproj.GenerateResource.Cache
+C:\Users\Patrick\Documents\Visual Studio 2013\Projects\Interpretor\NumToText\NumToText\obj\Debug\NumToText.exe
+C:\Users\Patrick\Documents\Visual Studio 2013\Projects\Interpretor\NumToText\NumToText\obj\Debug\NumToText.pdb

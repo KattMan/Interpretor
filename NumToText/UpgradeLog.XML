@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="NumToText">
+</Property><Property Name="Solution File" Value="F:\Development\Projects\Interpretor\NumToText\NumToText.sln">
+</Property><Property Name="Date" Value="Wednesday, April 25, 2012">
+</Property><Property Name="Time" Value="23:01 PM">
+</Property></Properties><Event ErrorLevel="0" Project="NumToText" Source="NumToText\NumToText.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NumToText" Source="NumToText\NumToText.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="NumToText.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="NumToText.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NumToText" Source="NumToText\NumToText.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
